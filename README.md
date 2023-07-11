@@ -1,3 +1,7 @@
+Replicando hands-on, exatamente como passado pelo Denilson, trocando os hosts nos arquivos.. claro, para utilização nas instâncias EC2 da AWS.
+Muita contribuição com este projeto, praticando compartilhamento com NFS e proxy com Nginx. Showw!!
+Moisés Carvalho, Aluno - DIO
+
 Docker: Utilização prática no cenário de Microsserviços
 Denilson Bonatti, Instrutor - Digital Innovation One
 
